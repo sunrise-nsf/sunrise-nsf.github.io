@@ -33,6 +33,7 @@ author_profile: true
 ![alt text](/images/jen.jpg "Jen MacKinnon")
 
 [John Taylor](http://www.damtp.cam.ac.uk/people/j.r.taylor/)
+======
 ![alt text](/images/john.jpg "John Taylor")
 
 ======
