@@ -3,13 +3,11 @@ title: "Suppression of Baroclinic Instabilities in Buoyancy-Driven Flow over Slo
 collection: publications
 permalink: /publication/hetland_jpo_2017
 excerpt: 
-date: 2019-11-22
+date: 2017-01-15
 venue: 'J. Phys. Oceanogr.'
-paperurl: 'https://doi.org/10.1175/JPO-D-15-0240.1'
+paperurl: 'https://journals.ametsoc.org/doi/pdf/10.1175/JPO-D-15-0240.1'
 citation: 'Hetland, R. D. (2017). Suppression of baroclinic instabilities in buoyancy-driven flow over sloping bathymetry. *Journal of Physical Oceanography*, **47**(1), 49-68.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](https://journals.ametsoc.org/doi/pdf/10.1175/JPO-D-15-0240.1)
 
 Recommended citation: Hetland, R. D. (2017). Suppression of baroclinic instabilities in buoyancy-driven flow over sloping bathymetry. *Journal of Physical Oceanography*, **47**(1), 49-68.
