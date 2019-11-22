@@ -29,7 +29,7 @@ PIs
 ### [Jen MacKinnon](http://pordlabs.ucsd.edu/jen/)
 ![alt text](/images/jen.jpg "Jen MacKinnon")
 
-### [John Taylor](http://www.damtp.cam.ac.uk/people/j.r.taylor/)
+### [John Taylor](http://www.damtp.cam.ac.uk/user/jrt51/)
 ![alt text](/images/john.jpg "John Taylor")
 
 Postdocs
@@ -42,4 +42,6 @@ Postdocs
 Students
 ======
 
+### [Aaron Wienkers](http://wienkers.com)
+![alt text](/images/Aaron.jpg "Aaron Wienkers")
 
