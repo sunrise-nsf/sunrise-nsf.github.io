@@ -43,5 +43,5 @@ Students
 ======
 
 ### [Aaron Wienkers](http://wienkers.com)
-![alt text](/images/aaron.jpg "Aaron Wienkers")
+![alt text](/images/Aaron.jpg "Aaron Wienkers")
 
