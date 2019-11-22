@@ -42,4 +42,6 @@ Postdocs
 Students
 ======
 
+### [Aaron Wienkers](http://wienkers.com)
+![alt text](/images/aaron.jpg "Aaron Wienkers")
 
