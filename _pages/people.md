@@ -39,7 +39,7 @@ Postdocs
 ![alt text](/images/lixin.jpg "Lixin Qu")
 
 ### [Jinliang Liu](https://www.damtp.cam.ac.uk/person/jl2158)
-![alt text](/images/jinliang.jpg "Jinliang Liu")
+![alt text](/images/jl2158.jpg "Jinliang Liu")
 
 Students
 ======
