@@ -38,6 +38,8 @@ Postdocs
 ### [Lixin Qu](https://profiles.stanford.edu/lixin-qu?releaseVersion=7.16.0)
 ![alt text](/images/lixin.jpg "Lixin Qu")
 
+### [Jinliang Liu](https://www.damtp.cam.ac.uk/person/jl2158)
+![alt text](/images/jinliang.jpg "Jinliang Liu")
 
 Students
 ======
