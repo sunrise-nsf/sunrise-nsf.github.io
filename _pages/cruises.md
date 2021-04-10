@@ -1,5 +1,5 @@
 ---
-permalink: /cruises
+permalink: /cruises/
 title: "Cruises"
 author_profile: true
 
