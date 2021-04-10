@@ -12,8 +12,8 @@ main:
   - title: "Cruises"
     url: /cruises/    
     
-  - title: "Blog"
-    url: /blog/
+  - title: "Gallery"
+    url: /gallery/
     
   - title: "Guide"
     url: /markdown/
