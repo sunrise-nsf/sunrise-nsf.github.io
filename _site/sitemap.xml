@@ -45,13 +45,13 @@
 <loc>http://localhost:4000/collection-archive/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cruises</loc>
+<loc>http://localhost:4000/Cruises/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/gallery</loc>
+<loc>http://localhost:4000/gallery/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/markdown/</loc>

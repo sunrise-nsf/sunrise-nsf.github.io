@@ -47,5 +47,8 @@ Students
 ### [Aaron Wienkers](http://wienkers.com)
 ![alt text](/images/Aaron.jpg "Aaron Wienkers")
 
-### [Dylan Schlichting](https://ocean.tamu.edu/people/profiles/students/schlichtingdylan.html)
+### [Dylan Schlichting](https://dylanschlichting.github.io/)
 ![alt text](/images/dylan.jpg "Dylan Schlichting")
+
+### Jamie Hilditch
+![alt text](/images/jamie.jpg "Jamie Hilditch")
