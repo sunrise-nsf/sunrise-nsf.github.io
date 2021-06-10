@@ -1,6 +1,6 @@
 ---
-permalink: /Cruises/
-title: "Cruises"
+permalink: /Blog/
+title: "Blog"
 author_profile: true
 
 ---

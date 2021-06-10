@@ -39,13 +39,13 @@
 <loc>http://localhost:4000/archive-layout-with-content/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Blog/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/collection-archive/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Cruises/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>
