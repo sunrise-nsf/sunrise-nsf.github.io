@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "SUNRISE"
 description              : &description "NSF SUNRISE project"
 url                      : https://sunrise-nsf.github.io
+# last_updated             : true
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunrise-nsf/sunrise-nsf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -21,11 +22,11 @@ future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : false 
+  provider               : false
   disqus:
     shortname            :
   discourse:
-    server               : 
+    server               :
   facebook               :
     appid                :
     num_posts            : # 5 (default)
@@ -82,13 +83,13 @@ analytics:
 author:
   name             : "SUNRISE NSF-NERC"
   avatar           : "sunrise_logo.png"
-  bio              : 
-  location         : 
+  bio              :
+  location         :
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            :
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
