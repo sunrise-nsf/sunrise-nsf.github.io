@@ -22,24 +22,24 @@ author_profile: true
 
       <br> <font size="+1.5"> Leaving the channel with rough weather in the distance … the direction we’re
       heading </font>
-      <img src="../images/cruise/img_2688.jpeg" alt="channel"> <br>
+      <img src="../images/cruise/IMG_2688.jpeg" alt="channel"> <br>
 
       <br> <font size="+1.5"> Screen shot of a video I took on Jun 21 - that is head-high water coming over
       the port rail. We were sampling with just the ADCPs and flow through at that point. </font>
-      <img src="../images/cruise/img_2692.jpeg" alt="rail"> <br>
+      <img src="../images/cruise/IMG_2692.jpeg" alt="rail"> <br>
 
       <br> <font size="+1.5"> Fucent and Emily getting work done in rough conditions, and still smiling! </font>
-      <img src="../images/cruise/img_2698.jpeg" alt="rough weather"> <br>
+      <img src="../images/cruise/IMG_2698.jpeg" alt="rough weather"> <br>
 
       <br> <font size="+1.5"> Jonny and Bofu getting ready to deploy the CT chain on the RV Pelican. The
       weather was still bad, but had let up enough to move on to finally putting some
       instruments in the water. </font>
-      <img src="../images/cruise/img_2699.jpeg" alt="Johnny Bofu"> <br>
+      <img src="../images/cruise/IMG_2699.jpeg" alt="Johnny Bofu"> <br>
 
       <br> <font size="+1.5"> Towards the end, the storm would give up with out throwing a few water
       spouts at us … I’ve never seen a water spout in person before. It was a pretty ominous
       sight. There was also a lot of thunder and lightning during this period.</font>
-      <img src="../images/cruise/img_2709.jpeg" alt="spout"> <br>
+      <img src="../images/cruise/IMG_2709.jpeg" alt="spout"> <br>
 
       <br> -Kipp Shearman
 </details>
