@@ -24,7 +24,7 @@ author_profile: true
       Bofu Zheng was officially awarded the winner’s trophy after dramatically consuming his ice cream cone the fastest, having lost the ice cream bar challenge two nights before. It truly was an exciting win and a riveting evening for all spectators <br>
 
       <br> <font size="+1.5"> Bofu with the winner's trophy </font>
-      <img src="../images/cruise/ice_cream_bofu.jpg" alt="icecreambofu"> <br>
+      <img src="../images/cruise/Ice_cream_bofu.jpg" alt="icecreambofu"> <br>
 
       <br> <font size="+1.5"> Start of the finals </font>
       <img src="../images/cruise/ice_cream_finals.jpg" alt="icecream"> <br>
